@@ -9,11 +9,26 @@
    display: flex;
    justify-content: center;
    align-items: center;
-   
-    
 }
 .banner-content{
     text-align: center;
-    
+    font-family: 'Merriweather', serif;
+    margin-bottom: 35px;
 
+  
+}
+.banner h3{
+    color: #FFF;
+font-size: 32px;
+font-weight: 400;
+line-height: normal;
+}
+.banner h1{
+    color: #FFF;
+font-size: 42px;
+font-weight: 900;
+
+}
+.banner-heading{
+    width: 632px;
 }
