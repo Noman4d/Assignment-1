@@ -327,3 +327,56 @@ height: 350px;
 .portfolio-image{
     margin-left: 70px;
 }
+/* news section */
+.news-icon{
+    background: url('../resources/Group\ 61.png');
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+    margin-left: 280px
+
+}
+.newslatter{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 160px;
+}
+.news-content h2{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+}
+.news-content p{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; /* 160% */
+width: 706px;
+}
+.btn{
+    position: relative;
+   display: flex;
+   margin-left: 430px;
+   margin-top: 30px;
+}
+.btn input{
+    width: 350px;
+height: 50px;
+border-radius: 50px;
+background: #FFF;
+border: none;
+}
+.btn button{
+    width: 150px;
+height: 50px;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+color: #FFF;
+border: none;
+}
