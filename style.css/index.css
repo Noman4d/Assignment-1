@@ -240,3 +240,57 @@ line-height: 32px; /* 160% */
 width: 800px;
 margin-left: 270px;
 }
+
+
+.discount-image{
+    height: 700px;
+    width:1220px; 
+    display: flex;
+    display: flex;
+    
+    position: relative;
+}
+.image-st{
+    background: url(../resources/Rectangle\ 2.png);
+    width: 1220px;
+    height: 200px;
+    position: relative;
+    bottom: 0;
+    margin-left: 70px;
+    border-radius: 16px 0px 16px 16px;
+    position:absolute;
+    bottom: 0;
+}
+.image-nd{
+        background: url(../resources/Group\ 75.png);
+        width:400px;
+        height: 400px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin-left: 90px;
+        position:absolute;
+        top: 0;
+        margin-top: 300px;
+        margin-left: 200px;
+}
+.image-rd{
+    background: url('../resources/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 429px;
+    height: 433px;
+    flex-shrink: 0;
+    margin-top: 67px;
+    margin-left: 861px;
+    border-radius: 16px 16px 0px 0px;
+    position: relative;
+}
+.image-th{
+    background: url('../resources/Group\ 44.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 350px;
+    width: 350px;
+    margin-top: 40px;
+    margin-left: -200px;
+}
