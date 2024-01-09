@@ -88,7 +88,16 @@ font-weight: 900;
     display: flex;
     margin-top: 100px;
 }
-
+.overley-image{
+    opacity: .8;
+    position: absolute;
+    right: 0;
+    margin-top: 80px;
+     margin-right: 110px;
+     width: 280.83px;
+    height: 400.662px;
+    fill: linear-gradient(171deg, #F2D977 -4.53%, #E8CB65 0.61%, #DAB74C 8.32%, #D2AB3D 16.03%, #CFA738 22.46%, #E1C863 39.17%, #FFA 67.45%, #FEFBA5 72.59%, #FAF096 80.3%, #F3DD7D 88.02%, #EAC45A 97.01%, #E1AB39 103.44%, #D7A136 109.87%, #BD882D 118.87%, #AC7828 124.01%);
+}
 .second-contents h1{
  color: #FFF;
 font-family: Merriweather;
